@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* to test this just go into config and input your mysql PW
+
+* gem install > rails server
